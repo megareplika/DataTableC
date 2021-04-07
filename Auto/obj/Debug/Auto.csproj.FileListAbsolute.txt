@@ -1,0 +1,10 @@
+E:\suli\szf\prog\2.év\C\Auto\Auto\bin\Debug\Auto.exe.config
+E:\suli\szf\prog\2.év\C\Auto\Auto\bin\Debug\Auto.exe
+E:\suli\szf\prog\2.év\C\Auto\Auto\bin\Debug\Auto.pdb
+E:\suli\szf\prog\2.év\C\Auto\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+E:\suli\szf\prog\2.év\C\Auto\Auto\obj\Debug\Auto.Form1.resources
+E:\suli\szf\prog\2.év\C\Auto\Auto\obj\Debug\Auto.Properties.Resources.resources
+E:\suli\szf\prog\2.év\C\Auto\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+E:\suli\szf\prog\2.év\C\Auto\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+E:\suli\szf\prog\2.év\C\Auto\Auto\obj\Debug\Auto.exe
+E:\suli\szf\prog\2.év\C\Auto\Auto\obj\Debug\Auto.pdb
